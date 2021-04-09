@@ -7,21 +7,21 @@
         <meta name="description" content="Page Événements & Soirées Le Bowling d'Alès" />
         <!-- Style Normal -->
         <!--
-        <link href="http://localhost/bowlingales/public_html/Ressources/PHP_Files/Style_Files/1_css_all_pages.php" rel="stylesheet" type="text/css">
-        <link href="http://localhost/bowlingales/public_html/Ressources/PHP_Files/Style_Files/2_css_header.php" rel="stylesheet" type="text/css">
-        <link href="http://localhost/bowlingales/public_html/Ressources/PHP_Files/Style_Files/3_css_navbar.php" rel="stylesheet" type="text/css">
-        <link href="http://localhost/bowlingales/public_html/Ressources/PHP_Files/Style_Files/4_css_footer.php" rel="stylesheet" type="text/css">
-        <link href="http://localhost/bowlingales/public_html/Ressources/PHP_Files/Style_Files/10_css_evenement.php" rel="stylesheet" type="text/css">
-        <link href="http://localhost/bowlingales/public_html/Ressources/1_Title/favicon.ico" rel="icon">
+        <link href="http://localhost/bowlingales/bowlingales/public_html/Ressources/PHP_Files/Style_Files/1_css_all_pages.php" rel="stylesheet" type="text/css">
+        <link href="http://localhost/bowlingales/bowlingales/public_html/Ressources/PHP_Files/Style_Files/2_css_header.php" rel="stylesheet" type="text/css">
+        <link href="http://localhost/bowlingales/bowlingales/public_html/Ressources/PHP_Files/Style_Files/3_css_navbar.php" rel="stylesheet" type="text/css">
+        <link href="http://localhost/bowlingales/bowlingales/public_html/Ressources/PHP_Files/Style_Files/4_css_footer.php" rel="stylesheet" type="text/css">
+        <link href="http://localhost/bowlingales/bowlingales/public_html/Ressources/PHP_Files/Style_Files/10_css_evenement.php" rel="stylesheet" type="text/css">
+        <link href="http://localhost/bowlingales/bowlingales/public_html/Ressources/1_Title/favicon.ico" rel="icon">
         -->
 
         <!-- Style Halloween -->
-        <link href="http://localhost/bowlingales/public_html/Ressources/PHP_Files/Style_Files_Halloween/1_css_all_pages.php" rel="stylesheet" type="text/css">
-        <link href="http://localhost/bowlingales/public_html/Ressources/PHP_Files/Style_Files_Halloween/2_css_header.php" rel="stylesheet" type="text/css">
-        <link href="http://localhost/bowlingales/public_html/Ressources/PHP_Files/Style_Files_Halloween/3_css_navbar.php" rel="stylesheet" type="text/css">
-        <link href="http://localhost/bowlingales/public_html/Ressources/PHP_Files/Style_Files_Halloween/4_css_footer.php" rel="stylesheet" type="text/css">
-        <link href="http://localhost/bowlingales/public_html/Ressources/PHP_Files/Style_Files_Halloween/10_css_evenement.php" rel="stylesheet" type="text/css">
-        <link href="http://localhost/bowlingales/public_html/Ressources/1_Title/favicon.ico" rel="icon">
+        <link href="http://localhost/bowlingales/bowlingales/public_html/Ressources/PHP_Files/Style_Files_Halloween/1_css_all_pages.php" rel="stylesheet" type="text/css">
+        <link href="http://localhost/bowlingales/bowlingales/public_html/Ressources/PHP_Files/Style_Files_Halloween/2_css_header.php" rel="stylesheet" type="text/css">
+        <link href="http://localhost/bowlingales/bowlingales/public_html/Ressources/PHP_Files/Style_Files_Halloween/3_css_navbar.php" rel="stylesheet" type="text/css">
+        <link href="http://localhost/bowlingales/bowlingales/ublic_html/Ressources/PHP_Files/Style_Files_Halloween/4_css_footer.php" rel="stylesheet" type="text/css">
+        <link href="http://localhost/bowlingales/bowlingales/public_html/Ressources/PHP_Files/Style_Files_Halloween/10_css_evenement.php" rel="stylesheet" type="text/css">
+        <link href="http://localhost/bowlingales/bowlingales/public_html/Ressources/1_Title/favicon.ico" rel="icon">
     </head>
     <body>
         <!--    Page Facebook
@@ -58,7 +58,7 @@
                 <div class="Carte" id="Carte_1">
                     <div id="Face1">
                         <div id="Contenu_Face1">
-                            <img src="http://localhost/bowlingales/public_html/Ressources/4_Content/5_Evenements/1.jpg" alt="Bowling Illimité"/>
+                            <img src="http://localhost/bowlingales/bowlingales/public_html/Ressources/4_Content/5_Evenements/1.jpg" alt="Bowling Illimité"/>
                             <h3>Bowling Illimité</h3>
                         </div>
                     </div>
@@ -74,7 +74,7 @@
                 <div class="Carte" id="Carte_2">
                     <div id="Face3">
                         <div id="Contenu_Face3">
-                            <img src="http://localhost/bowlingales/public_html/Ressources/4_Content/5_Evenements/2.jpg" alt="Soirée Filles"/>
+                            <img src="http://localhost/bowlingales/bowlingales/public_html/Ressources/4_Content/5_Evenements/2.jpg" alt="Soirée Filles"/>
                             <h3>Girls Party</h3>
                         </div>
                     </div>
@@ -91,7 +91,7 @@
                 <div class="Carte" id="Carte_3">
                     <div id="Face5">
                         <div id="Contenu_Face5">
-                            <img src="http://localhost/bowlingales/public_html/Ressources/4_Content/5_Evenements/3.jpg" alt=""/>
+                            <img src="http://localhost/bowlingales/bowlingales/public_html/Ressources/4_Content/5_Evenements/3.jpg" alt=""/>
                             <h3></h3>
                         </div>
                     </div>
@@ -113,7 +113,7 @@
                 <div class="Carte" id="Carte_4">
                     <div id="Face7">
                         <div id="Contenu_Face7">
-                            <img src="http://localhost/bowlingales/public_html/Ressources/4_Content/5_Evenements/4.jpg" alt="">
+                            <img src="http://localhost/bowlingales/bowlingales/public_html/Ressources/4_Content/5_Evenements/4.jpg" alt="">
                             <h3>Séminaires</h3>
                         </div>
                     </div>
@@ -130,7 +130,7 @@
                 <div class="Carte" id="Carte_5">
                     <div id="Face9">
                         <div id="Contenu_Face9">
-                            <img src="http://localhost/bowlingales/public_html/Ressources/4_Content/5_Evenements/5.jpg" alt="">
+                            <img src="http://localhost/bowlingales/bowlingales/public_html/Ressources/4_Content/5_Evenements/5.jpg" alt="">
                             <h3>Enterrement de vie de jeunes filles/Garçons</h3>
                         </div>
                     </div>
@@ -147,7 +147,7 @@
                 <div class="Carte" id="Carte_6">
                     <div id="Face11">
                         <div id="Contenu_Face11">
-                            <img src="http://localhost/bowlingales/public_html/Ressources/4_Content/5_Evenements/6.jpg" alt="">
+                            <img src="http://localhost/bowlingales/bowlingales/public_html/Ressources/4_Content/5_Evenements/6.jpg" alt="">
                             <h3>Évènements à thèmes variés</h3>
                         </div>
                     </div>

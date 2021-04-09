@@ -1,7 +1,7 @@
 <main id="Contenu">
     <div id="BLC_1">
         <div id="Photo_1">
-            <img id="Photo_1-1" src="http://localhost/bowlingales/public_html/Ressources/4_Content/1_Acceuil/1.jpg" alt=""/>
+            <img id="Photo_1-1" src="http://localhost/bowlingales/bowlingales/public_html/Ressources/4_Content/1_Acceuil/1.jpg" alt=""/>
         </div>
         <div id="T1">
         <p id="Texte_1">Bienvenue au Bowling d'Alès ! Venez découvrir notre nouvel espace de bowling, de 
@@ -29,12 +29,12 @@
             </p>
         </div>
         <div id="Photo_2">
-            <img id="Photo_2-1" src="http://localhost/bowlingales/public_html/Ressources/4_Content/1_Acceuil/2.jpg" alt=""/>
+            <img id="Photo_2-1" src="http://localhost/bowlingales/bowlingales/public_html/Ressources/4_Content/1_Acceuil/2.jpg" alt=""/>
         </div>
     </div>
     <div id="BLC_3">
         <div id="Photo_3">
-            <img id="Photo_3-1" src="http://localhost/bowlingales/public_html/Ressources/4_Content/1_Acceuil/3.jpg" alt=""/>
+            <img id="Photo_3-1" src="http://localhost/bowlingales/bowlingales/public_html/Ressources/4_Content/1_Acceuil/3.jpg" alt=""/>
         </div>
         <div id="T3">
             <p id="Texte_3">
@@ -44,8 +44,8 @@
         </div>
     </div>
     <div id="BLC_4">
-        <img id="Photo_4" src="http://localhost/bowlingales/public_html/Ressources/4_Content/1_Acceuil/4.jpg" alt=""/>
-        <img id="Photo_5" src="http://localhost/bowlingales/public_html/Ressources/4_Content/1_Acceuil/5.jpg" alt=""/>
-        <img id="Photo_6" src="http://localhost/bowlingales/public_html/Ressources/4_Content/1_Acceuil/6.jpg" alt=""/>
+        <img id="Photo_4" src="http://localhost/bowlingales/bowlingales/public_html/Ressources/4_Content/1_Acceuil/4.jpg" alt=""/>
+        <img id="Photo_5" src="http://localhost/bowlingales/bowlingales/public_html/Ressources/4_Content/1_Acceuil/5.jpg" alt=""/>
+        <img id="Photo_6" src="http://localhost/bowlingales/bowlingales/public_html/Ressources/4_Content/1_Acceuil/6.jpg" alt=""/>
     </div>
 </main>

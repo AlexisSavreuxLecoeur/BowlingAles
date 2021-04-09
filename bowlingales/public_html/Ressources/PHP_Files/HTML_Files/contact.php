@@ -7,22 +7,22 @@
         <meta name="description" content="Page Contact Le Bowling d'Alès" />
         <!-- Style Normal -->
         
-        <link href="http://localhost/bowlingales/public_html/Ressources/PHP_Files/Style_Files/1_css_all_pages.php" rel="stylesheet" type="text/css">
-        <link href="http://localhost/bowlingales/public_html/Ressources/PHP_Files/Style_Files/2_css_header.php" rel="stylesheet" type="text/css">
-        <link href="http://localhost/bowlingales/public_html/Ressources/PHP_Files/Style_Files/3_css_navbar.php" rel="stylesheet" type="text/css">
-        <link href="http://localhost/bowlingales/public_html/Ressources/PHP_Files/Style_Files/4_css_footer.php" rel="stylesheet" type="text/css">
-        <link href="http://localhost/bowlingales/public_html/Ressources/PHP_Files/Style_Files/11_css_contact.php" rel="stylesheet" type="text/css">
-        <link href="http://localhost/bowlingales/public_html/Ressources/1_Title/favicon.ico" rel="icon">
+        <link href="http://localhost/bowlingales/bowlingales/public_html/Ressources/PHP_Files/Style_Files/1_css_all_pages.php" rel="stylesheet" type="text/css">
+        <link href="http://localhost/bowlingales/bowlingales/public_html/Ressources/PHP_Files/Style_Files/2_css_header.php" rel="stylesheet" type="text/css">
+        <link href="http://localhost/bowlingales/bowlingales/public_html/Ressources/PHP_Files/Style_Files/3_css_navbar.php" rel="stylesheet" type="text/css">
+        <link href="http://localhost/bowlingales/bowlingales/public_html/Ressources/PHP_Files/Style_Files/4_css_footer.php" rel="stylesheet" type="text/css">
+        <link href="http://localhost/bowlingales/bowlingales/public_html/Ressources/PHP_Files/Style_Files/11_css_contact.php" rel="stylesheet" type="text/css">
+        <link href="http://localhost/bowlingales/bowlingales/public_html/Ressources/1_Title/favicon.ico" rel="icon">
         
 
         <!-- Style Halloween -->
         <!--
-        <link href="http://localhost/bowlingales/public_html/Ressources/PHP_Files/Style_Files_Halloween/1_css_all_pages.php" rel="stylesheet" type="text/css">
-        <link href="http://localhost/bowlingales/public_html/Ressources/PHP_Files/Style_Files_Halloween/2_css_header.php" rel="stylesheet" type="text/css">
-        <link href="http://localhost/bowlingales/public_html/Ressources/PHP_Files/Style_Files_Halloween/3_css_navbar.php" rel="stylesheet" type="text/css">
-        <link href="http://localhost/bowlingales/public_html/Ressources/PHP_Files/Style_Files_Halloween/4_css_footer.php" rel="stylesheet" type="text/css">
-        <link href="http://localhost/bowlingales/public_html/Ressources/PHP_Files/Style_Files_Halloween/11_css_contact.php" rel="stylesheet" type="text/css">
-        <link href="http://localhost/bowlingales/public_html/Ressources/1_Title/favicon.ico" rel="icon">
+        <link href="http://localhost/bowlingales/bowlingales/public_html/Ressources/PHP_Files/Style_Files_Halloween/1_css_all_pages.php" rel="stylesheet" type="text/css">
+        <link href="http://localhost/bowlingales/bowlingales/public_html/Ressources/PHP_Files/Style_Files_Halloween/2_css_header.php" rel="stylesheet" type="text/css">
+        <link href="http://localhost/bowlingales/bowlingales/public_html/Ressources/PHP_Files/Style_Files_Halloween/3_css_navbar.php" rel="stylesheet" type="text/css">
+        <link href="http://localhost/bowlingales/bowlingales/public_html/Ressources/PHP_Files/Style_Files_Halloween/4_css_footer.php" rel="stylesheet" type="text/css">
+        <link href="http://localhost/bowlingales/bowlingales/public_html/Ressources/PHP_Files/Style_Files_Halloween/11_css_contact.php" rel="stylesheet" type="text/css">
+        <link href="http://localhost/bowlingales/bowlingales/public_html/Ressources/1_Title/favicon.ico" rel="icon">
         -->
     </head>
     <body>
@@ -57,7 +57,7 @@
                 </div>
                 <div class="Carte">
                     <div class="_Maps">
-                        <img id="Maps_GPS" src="http://localhost/bowlingales/public_html/Ressources/4_Content/6_Contact/1.jpg" alt="Carte Google Maps pour l'accessibilité du Bowling d'Alès">
+                        <img id="Maps_GPS" src="http://localhost/bowlingales/bowlingales/public_html/Ressources/4_Content/6_Contact/1.jpg" alt="Carte Google Maps pour l'accessibilité du Bowling d'Alès">
                         <div class="Button_Agrandir">
                             <button type="button">Agrandir la carte Maps</button>
                         </div>
